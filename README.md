@@ -29,7 +29,7 @@ TCP/IP 소켓통신은 무선인터넷환경에서 진행되었습니다.
       ```
       create database issi;
       use issi;
-      create table data(
+      create table data(
       data1 varchar(100) not null, 
       ....
       data5 varchar(100) not null,
