@@ -9,20 +9,27 @@ TCP/IP 소켓통신간 데이터, 데이터베이스 AES암호화, Bro를 이용
 ## 설치/실행환경 
 
 ### 라즈베리파이 
-* 라즈베리파이는 [Raspbian-jessie-..버전](https://www.raspberrypi.org/downloads/raspbian/)을 사용하였으며 코드는 c언어로 작성되었습니다.
+* [라즈베리파이 하드웨어 가이드](https://www.raspberrypi.org/learning/hardware-guide/equipment/)
+ * 라즈베리파이 하드웨어 구성은 위 링크를 참조하시면 됩니다.
+* [라즈비안 설치 가이드](https://www.raspberrypi.org/learning/software-guide/quickstart/)
+ * 라즈베리파이는 Raspbian-jessie-..버전을 사용하였습니다.
+ * 사용된 코드는 c언어로 작성되었습니다.
+
 * 무선인터넷환경에서 소켓통신이 진행되었으며 통신시 전송하는 데이터는 ....로 사용하였습니다.
 
 ### 윈도우서버 
-윈도우서버는 Visual Studio 2015에서 작성되었으며 mfc로 구현되었습니다.
-데이터베이스는 Mysql5를 사용하였으며 
+* 윈도우서버는 Visual Studio 2015에서 작성되었으며 mfc로 구현되었습니다.
+* 데이터베이스는 Mysql5를 사용하였으며 
 
 ### 안드로이드 
-안드로이드는 Android Srudio에서 작성되었으며 
+* 안드로이드는 Android Srudio에서 작성되었으며 
 
 ### Bro IDS 
-Bro를 이용한 IDS는 Ubuntu 12.. 버전을 사용하였으며 Bro Script를 사용하였습니다.
+* Bro IDS는 Ubuntu 12.. 버전을 사용하였으며 Bro Script를 사용하였습니다.
 
 ### 키관리서버 
+* 키관리서버는
+
 
 
 테스트중입니다.
