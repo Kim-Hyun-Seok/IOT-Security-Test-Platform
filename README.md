@@ -10,10 +10,10 @@ TCP/IP 소켓통신간 데이터, 데이터베이스 AES암호화, Bro를 이용
 
 ### 라즈베리파이 
 * [라즈베리파이 하드웨어 가이드](https://www.raspberrypi.org/learning/hardware-guide/equipment/)
- * 라즈베리파이 하드웨어 구성은 위 링크를 참조하시면 됩니다.
+  * 라즈베리파이 하드웨어 구성은 위 링크를 참조하시면 됩니다.
 * [라즈비안 설치 가이드](https://www.raspberrypi.org/learning/software-guide/quickstart/)
- * 라즈베리파이는 Raspbian-jessie-..버전을 사용하였습니다.
- * 사용된 코드는 c언어로 작성되었습니다.
+  * 라즈베리파이는 Raspbian-jessie-..버전을 사용하였습니다.
+  * 사용된 코드는 c언어로 작성되었습니다.
 
 * 무선인터넷환경에서 소켓통신이 진행되었으며 통신시 전송하는 데이터는 ....로 사용하였습니다.
 
