@@ -9,8 +9,8 @@ TCP/IP 소켓통신간 데이터, 데이터베이스 AES암호화, Bro를 이용
 ## 설치/실행환경 
 
 ### 라즈베리파이 
-라즈베리파이는 [Raspbian-jessie-..버전](https://www.raspberrypi.org/downloads/raspbian/)을 사용하였으며 코드는 c언어로 작성되었습니다.
-무선인터넷환경에서 소켓통신이 진행되었으며 통신시 전송하는 데이터는 ....로 사용하였습니다.
+* 라즈베리파이는 [Raspbian-jessie-..버전](https://www.raspberrypi.org/downloads/raspbian/)을 사용하였으며 코드는 c언어로 작성되었습니다.
+* 무선인터넷환경에서 소켓통신이 진행되었으며 통신시 전송하는 데이터는 ....로 사용하였습니다.
 
 ### 윈도우서버 
 윈도우서버는 Visual Studio 2015에서 작성되었으며 mfc로 구현되었습니다.
