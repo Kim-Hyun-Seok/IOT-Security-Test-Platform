@@ -27,8 +27,8 @@ TCP/IP 소켓통신은 무선인터넷환경에서 진행되었습니다.
     * 사용자환경에 따라 데이터베이스 구성을 바꿔서 사용하시면 됩니다.
     * 기본 테스트 플랫폼은 아래와 같이 생성하시면 됩니다.
       > create database issi;
-      use issi;
-      create table [테이블 이름](
+      > use issi;
+      >create table [테이블 이름](
       data1 varchar(100) not null, 
       ....
       data5 varchar(100) not null,
