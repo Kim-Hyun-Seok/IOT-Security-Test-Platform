@@ -21,14 +21,14 @@ TCP/IP 소켓통신은 무선인터넷환경에서 진행되었습니다.
 ### 윈도우서버 
 * 윈도우서버는 Visual Studio 2015에서 작성되었으며 mfc로 구현되었습니다.
 * 데이터베이스
- * [Mysql 5.x 버전](https://dev.mysql.com/downloads/mysql/) 이상을 권장합니다. 
- * 설치가이드만들기
- * 설치완료 후 데이터베이스 및 테이블 생성
- 사용자환경에 따라 데이터베이스 구성을 바꿔서 사용하시면 됩니다.
- 기본 테스트 플랫폼은 아래와 같이 생성하시면 됩니다.
- > create database issi;
-   use issi;
-   create table [테이블 이름](
+  * [Mysql 5.x 버전](https://dev.mysql.com/downloads/mysql/) 이상을 권장합니다. 
+  * 설치가이드만들기
+  * 설치완료 후 데이터베이스 및 테이블 생성
+    * 사용자환경에 따라 데이터베이스 구성을 바꿔서 사용하시면 됩니다.
+    * 기본 테스트 플랫폼은 아래와 같이 생성하시면 됩니다.
+    > create database issi;
+    use issi;
+    create table [테이블 이름](
     data1 varchar(100) not null, 
     ....
     data5 varchar(100) not null,
