@@ -14,7 +14,7 @@ TCP/IP 소켓통신은 무선인터넷환경에서 진행되었습니다.
   * 라즈베리파이 하드웨어 구성은 위 링크를 참조하시면 됩니다.
 * [라즈비안 설치](https://www.raspberrypi.org/learning/software-guide/quickstart/)
   * 라즈베리파이는 Raspbian-jessie버전을 사용하였습니다.
-  * 라즈비안 설치는 위 링크를 참조하시면 됩니다.   
+  * 라즈비안 설치는 위 링크를 참조하시면 됩니다.   
 * 사용된 코드는 c언어로 작성되었습니다.
 * 통신시 전송하는 데이터는 임의로 사용하였습니다.
 
@@ -26,13 +26,13 @@ TCP/IP 소켓통신은 무선인터넷환경에서 진행되었습니다.
   * 설치완료 후 데이터베이스 및 테이블 생성
     * 사용자환경에 따라 데이터베이스 구성을 바꿔서 사용하시면 됩니다.
     * 기본 테스트 플랫폼은 아래와 같이 생성하시면 됩니다.
-    > create database issi;
-    use issi;
-    create table [테이블 이름](
-    data1 varchar(100) not null, 
-    ....
-    data5 varchar(100) not null,
-    date varchar(20) not null);
+      > create database issi;
+      use issi;
+      create table [테이블 이름](
+      data1 varchar(100) not null, 
+      ....
+      data5 varchar(100) not null,
+      date varchar(20) not null);
 * Apache
 
 ### 안드로이드 
